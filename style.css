@@ -1,4 +1,12 @@
-html {
-  height: 100%;
-  width: 100%;
+* {
+  margin: 0;
+  padding: 0;
+}
+#sākums {
+  background-color: #DFB0E0;
+  height:13vh
+}
+li{
+  display: inline;
+  margin-right: 20px;
 }
