@@ -13,12 +13,12 @@
 #logo{
   margin-left: 0;
 }
-li{
+.poga{
   display: inline;
   margin-right: 70px;
   font-size: 27px;
 }
-ul{
+#navigacija{
   margin-top: 35px;
   margin-right:20px;
 }
@@ -26,4 +26,59 @@ ul{
   font-family: "Inria Serif", serif;
   font-weight: 400;
   font-style: normal;
+}
+#sakums{
+  margin-top:120px;
+}
+
+#īpašības {
+  background-color: #DFB0E0;
+  margin-top: 120px;
+  border-radius: 25px;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  
+}
+#saturs{
+  display:flex;
+  flex-direction: row;
+  justify-content: space-around;
+  
+}
+.flex{
+  margin-right: 10px;
+  display:flex;
+  flex-direction: column;
+}
+#īpašības p{
+  font-size: 30px;
+  font-family: "Inria Serif", serif;
+  font-weight: 400;
+  font-style: normal;
+  margin-left: 40px;
+}
+#īpašības li{
+  font-size: 30px;
+  font-family: "Inria Serif", serif;
+  font-weight: 400;
+  font-style: normal;
+  margin-left: 40px;
+}
+#īpašības h1{
+  margin-left: 20px;
+  margin-top: 20px;
+  font-size: 45px;
+}
+#piedav{
+  background-color: #DFB0E0;
+  border-radius: 15px;
+  margin-left: 180px;
+  margin-right: 180px;
+  height: 60px;
+}
+
+#piedav h1{
+  margin-left: 150px;
+  margin-top: 10px;
 }
