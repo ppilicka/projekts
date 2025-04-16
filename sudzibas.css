@@ -1,0 +1,104 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#sākums {
+  background-color: #DFB0E0;
+  height:13vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+#logo{
+  margin-left: 0;
+}
+.poga{
+  display: inline;
+  margin-right: 70px;
+  font-size: 27px;
+}
+#navigacija{
+  margin-top: 35px;
+  margin-right:20px;
+}
+.inria-serif-regular {
+  font-family: "Inria Serif", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+#fons {
+  background-color: #DFB0E0;
+ height: 630px;
+  width: 40%;
+  margin-left: 600px;
+  margin-right: 400px;
+ margin-top: 135px;
+
+  border-radius: 20px;
+}
+#fons h1{
+  font-size: 45px;
+  margin-left: 200px;
+  padding-top: 20px;
+}
+#vards {
+  width: 570px;
+  height: 75px;
+  margin-left: 110px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  border-radius: 10px;
+  font-size: 25px;
+   background-color: #ECD0EC;
+  font-family: "Inria Serif", serif;
+  font-weight: 400;
+  border: none;
+  text-align: center;
+ 
+}
+#numurs {
+  width: 570px;
+  height: 75px;
+  margin-left: 110px;
+  margin-bottom: 50px;
+  border-radius: 10px;
+  font-size: 25px;
+   background-color: #ECD0EC;
+  font-family: "Inria Serif", serif;
+  font-weight: 400;
+  border: none;
+  text-align: center;
+}
+#apraksts {
+  width: 570px;
+  height: 80px;
+  margin-left: 110px;
+  margin-bottom: 50px;
+  border-radius: 10px;
+  font-size: 25px;
+   background-color: #ECD0EC;
+  font-family: "Inria Serif", serif;
+  font-weight: 400;
+  border: none;
+  text-align: center;
+}
+
+#poga{
+  width: 500px;
+  height: 75px;
+  margin-left: 15cqh;
+  margin-bottom: 50px;
+  border-radius: 10px;
+  font-size: 25px;
+   background-color: #ECD0EC;
+  font-family: "Inria Serif", serif;
+  font-weight: 400;
+  border: none;
+  text-align: center;
+  color: black;
+  font-size: 30px;
+  font-weight: bold;
+}
+
