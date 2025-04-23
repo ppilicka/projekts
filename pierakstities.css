@@ -1,0 +1,85 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#sākums {
+  background-color: #DFB0E0;
+  height:13vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+#logo{
+  margin-left: 0;
+}
+.poga{
+  display: inline;
+  margin-right: 70px;
+  font-size: 27px;
+}
+#navigacija{
+  margin-top: 35px;
+  margin-right:20px;
+}
+.inria-serif-regular {
+  font-family: "Inria Serif", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+#pieslegties {
+  background-color: #eaccea;
+ height: 130px;
+  width: 100%;
+  margin-left: 0px;
+  margin-right: 0px;
+ margin-top: 150px;
+}
+#pieslegties h1{
+  font-size: 60px;
+  margin-left: 600px;
+  padding-top: 20px;
+}
+  #fons2 {
+    background-color: #ffffff;
+   height: 630px;
+    width: 40%;
+    margin-left: 250px;
+    margin-right: 400px;
+   margin-top: 135px;
+
+  }
+  #fons2 h1{
+    font-size: 45px;
+    margin-left: 300px;
+    padding-top: 20px;
+  }
+    #vards {
+      width: 570px;
+      height: 75px;
+      margin-left: 110px;
+      margin-top: 50px;
+      margin-bottom: 50px;
+    
+      font-size: 25px;
+       background-color: #ECD0EC;
+      font-family: "Inria Serif", serif;
+      font-weight: 400;
+      border: none;
+      text-align: center;
+
+    }
+    #numurs {
+      width: 570px;
+      height: 75px;
+      margin-left: 110px;
+      margin-bottom: 50px;
+      
+      font-size: 25px;
+       background-color: #ECD0EC;
+      font-family: "Inria Serif", serif;
+      font-weight: 400;
+      border: none;
+      text-align: center;
+    }
