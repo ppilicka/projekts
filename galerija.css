@@ -27,3 +27,20 @@
   font-weight: 400;
   font-style: normal;
 }
+
+.container{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+ 
+}
+
+.gal-1{
+  margin-top: 150px;
+  margin-right: 50px;
+}
+
+a{
+  color: black;
+  text-decoration: none;
+}

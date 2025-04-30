@@ -46,7 +46,7 @@
    height: 630px;
     width: 40%;
     margin-left: 250px;
-    margin-right: 400px;
+    margin-right: 50px;
    margin-top: 135px;
 
   }
@@ -58,7 +58,7 @@
     #vards {
       width: 570px;
       height: 75px;
-      margin-left: 110px;
+      margin-left: 125px;
       margin-top: 50px;
       margin-bottom: 50px;
     
@@ -73,7 +73,7 @@
     #numurs {
       width: 570px;
       height: 75px;
-      margin-left: 110px;
+      margin-left: 125px;
       margin-bottom: 50px;
       
       font-size: 25px;
@@ -85,9 +85,8 @@
     }
 
 #poga{
+  height:75px;
   width: 400px;
-  height: 75px;
-  margin-left: 24cqh;
   margin-bottom: 50px;
   border-radius: 20px;
    background-color: #DFB0E0;
@@ -97,16 +96,27 @@
   text-align: center;
   color: black;
   font-size: 35px;
-  font-weight: bold;
 }
 
-
+#poga2{
+  height:75px;
+  width: 400px;
+margin-left: 220px;
+  margin-bottom: 50px;
+  border-radius: 20px;
+   background-color: #DFB0E0;
+  font-family: "Inria Serif", serif;
+  font-weight: 400;
+  border: none;
+  text-align: center;
+  color: black;
+  font-size: 35px;
+}
 
 #fons3 {
   background-color: #ffffff;
  height: 630px;
   width: 40%;
-  margin-left: 990px;
  margin-top: 135px;
   margin-bottom: 800px;
 
@@ -119,7 +129,7 @@
   #vards1 {
     width: 570px;
     height: 75px;
-    margin-left: 110px;
+    margin-left: 120px;
     margin-top: 50px;
     margin-bottom: 50px;
 
@@ -134,7 +144,7 @@
   #numurs1 {
     width: 570px;
     height: 75px;
-    margin-left: 110px;
+    margin-left: 120px;
     margin-bottom: 50px;
 
     font-size: 25px;
@@ -147,7 +157,7 @@
 #velreiz {
   width: 570px;
   height: 75px;
-  margin-left: 110px;
+  margin-left: 120px;
   margin-bottom: 30px;
 
   font-size: 25px;
@@ -171,5 +181,8 @@ border: none;
 text-align: center;
 color: black;
 font-size: 35px;
-font-weight: bold;
+}
+#blakus{
+  display: flex;
+  flex-direction: row;
 }
